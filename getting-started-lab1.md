@@ -26,7 +26,7 @@ In this hands-on lab, you will deploy a Python or C# web application to Azure Ap
 
 ## Architecture Diagram
 
-![](/images/lab-1arch.png)
+![](/images/lab-1-arch.png)
 
 ## Explanation of Components
 
